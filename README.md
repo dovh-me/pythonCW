@@ -1,0 +1,2 @@
+# pythonCW
+UoW coursework (ProgCalc)
